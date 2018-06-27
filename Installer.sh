@@ -28,5 +28,6 @@ unzip zaca-qt-rpi.zip
 chmod +x zaca-qt
 echo Instalacion terminada, solo ejecuta ./zaca-qt
 sleep 5
+./zaca-qt
 exit 
 
