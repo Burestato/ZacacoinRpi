@@ -10,9 +10,9 @@ git clone https://github.com/Burestato/ZacacoinRpi.git
 
 cd ZacacoinRpi
 
-chmod +x installer.sh
+chmod +x Installer.sh
 
-./installer.sh
+./Installer.sh
 
 when all finish, just type 
 
