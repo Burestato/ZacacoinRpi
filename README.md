@@ -18,4 +18,10 @@ when all finish, just type
 
 ./zaca-qt 
 
+ By Albero Horta 
+
+Donations   Zaca Wallet 
+ 
+ Zm1F9EjCdNEuKZan1z66kRkY4nCpG54whB
+
 
