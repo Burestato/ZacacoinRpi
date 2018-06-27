@@ -24,7 +24,6 @@ sudo apt-get install libboost-filesystem1.58-dev -y
 sudo apt-get install libboost-program-options1.58-dev -y
 sudo apt-get install libboost-thread1.58-dev -y
 unzip zaca-qt-rpi.zip
-cd zaca-qt-rpi
 chmod +x zaca-qt
 echo Instalacion terminada, solo ejecuta ./zaca-qt
 sleep 5
