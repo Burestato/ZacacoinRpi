@@ -23,6 +23,7 @@ sudo apt-get install libboost-system1.58-dev -y
 sudo apt-get install libboost-filesystem1.58-dev -y
 sudo apt-get install libboost-program-options1.58-dev -y
 sudo apt-get install libboost-thread1.58-dev -y
+cd $HOME/ZacacoinRpi
 unzip zaca-qt-rpi.zip
 chmod +x zaca-qt
 echo Instalacion terminada, solo ejecuta ./zaca-qt
