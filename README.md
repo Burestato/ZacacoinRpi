@@ -9,7 +9,9 @@ sudo apt-get install git
 git clone https://github.com/Burestato/ZacacoinRpi.git
 
 cd ZacacoinRpi
+
 chmod +x installer.sh
+
 ./installer.sh
 
 when all finish, just type 
