@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo ZacaCoin Version 2.0  
+echo ZacaCoin Version 2.0
 echo Modify by Alberto Horta
 echo Raspberry Pi
 sleep 4
@@ -29,5 +29,5 @@ chmod +x zaca-qt
 echo Instalacion terminada, solo ejecuta ./zaca-qt
 sleep 5
 ./zaca-qt
-exit 
+exit
 
